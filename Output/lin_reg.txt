@@ -1,0 +1,25 @@
+Processing Data...
+Training...
+Testing...
+
+Prediction results: 
+[[323312. 393798.]
+ [454148. 465000.]
+ [581320. 485000.]
+ ...
+ [377372. 390000.]
+ [291680. 316000.]
+ [329244. 388000.]] 
+
+Mean Absolute Error: 
+0.14655657344001813 
+
+Absolute Average Difference: 
+76603.5209326974 
+
+Over-predictions: 
+Average = 73771.44291338582 , Count: 1016 
+
+Under-predictions: 
+Average = -79907.07003444317 , Count: 871 
+
